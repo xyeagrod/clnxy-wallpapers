@@ -10,5 +10,16 @@
     "Architecture",
     "Anime"
   ],
-  "wallpapers": []
+  "wallpapers": [
+    {
+      "id": 1,
+      "title": "Test Wallpaper",
+      "category": "Nature",
+      "color": "Blue",
+      "hex": "#3B82F6",
+      "resolution": "1920x1080",
+      "thumbnail": "https://pub-4db2d18514a341ad938fd84b5cdc087d.r2.dev/wallpapers/test.jpg",
+      "original": "https://pub-4db2d18514a341ad938fd84b5cdc087d.r2.dev/wallpapers/test.jpg"
+    }
+  ]
 }
